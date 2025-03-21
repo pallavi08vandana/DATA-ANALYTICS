@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
+
+# Statistical analysis
+scipy
+
